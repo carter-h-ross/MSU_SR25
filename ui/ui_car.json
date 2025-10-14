@@ -1,13 +1,13 @@
 {
-  "name": "UCM 2016 FSAE",
-  "brand": "UCM",
-  "description": "Carbon Fibre Monocoque chassis<br><br>Drive System: by 4 AMK electric motors, individually controlled and drive the wheels through a custom designed and built single stage reduction planetary gearbox<br><br>Power: 80 kW (limited for competition) but has up to 120 kW available<br><br>Torque: 924 nm (at the wheels)<br><br>Mass: 225kg (without driver)<br><br>Full aerodynamics package optimised for downforce<br><br>10 inch diameter, 2 piece carbon fibre and aluminium wheels with 8 inch wide Hoosier R25B tires<br><br>Completely designed, optimised, built and developed by students",
+  "name": "MSU_SR25",
+  "brand": "MSU Formula Racing",
+  "description": "MSU Formula Racing 2025 season car",
   "tags": [
     "#FSAE",
-    "awd",
+    "rwd",
     "race",
     "singleseater",
-    "New Zealand"
+    "United States"
   ],
   "class": "race",
   "specs": {
