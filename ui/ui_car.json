@@ -11,12 +11,12 @@
   ],
   "class": "race",
   "specs": {
-    "bhp": "107bhp",
-    "torque": "84Nm",
+    "bhp": "",
+    "torque": "230Nm",
     "weight": "290kg*",
     "topspeed": "95mph",
-    "acceleration": "0-60mph in 4.0s",
-    "pwratio": "2.71kg/hp",
+    "acceleration": "",
+    "pwratio": "",
     "range": 185
   },
   "torqueCurve": [
@@ -351,9 +351,9 @@
       0.0
     ]
   ],
-  "country": "New Zealand",
-  "author": "Gary Paterson",
+  "country": "United States",
+  "author": "Carter Ross",
   "version": null,
-  "url": "facebook.com/gpatersondesign/",
-  "year": 2016
+  "url": "https://www.msuformularacing.com/",
+  "year": 2025
 }
