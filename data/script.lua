@@ -1,7 +1,7 @@
 local on_brake_percent = 0.05
 local on_gas_percent = 0.02
 local release_percent = 0.02
-local overlap_time = 30 -- ms
+local overlap_time = 30 -- ms both on brakes and throttle
 local minimum_trigger_time = 150 -- ms
 
 local triggered = false
