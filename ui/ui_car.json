@@ -11,12 +11,12 @@
   ],
   "class": "race",
   "specs": {
-    "bhp": "",
+    "bhp": null,
     "torque": "230Nm",
     "weight": "290kg*",
     "topspeed": "95mph",
-    "acceleration": "",
-    "pwratio": "",
+    "acceleration": null,
+    "pwratio": null,
     "range": 185
   },
   "torqueCurve": [
@@ -351,7 +351,7 @@
       0.0
     ]
   ],
-  "country": "United States",
+  "country": "USA",
   "author": "Carter Ross",
   "version": null,
   "url": "https://www.msuformularacing.com/",
